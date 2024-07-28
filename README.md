@@ -1,6 +1,6 @@
 # CS231n: Deep Learning for Computer Vision - Assignment Solutions
 
-This repository contains worked solutions for the Spring 2023 Assignments from the Stanford University CS231n: Deep Learning for Computer Vision course. The solutions are thoroughly annotated with comments and worked through in an intuitive manner.
+This repository contains solutions for the Spring 2023 Assignments from the Stanford University CS231n: Deep Learning for Computer Vision course. The solutions are thoroughly annotated with comments and worked through in an intuitive manner.
 
 ## Course Information
 - **Course Website**: [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)
