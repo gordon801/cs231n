@@ -1,0 +1,16 @@
+# Irrelevant folders
+archive
+~
+
+# Python
+__pycache__
+.ipynb_checkpoints
+.python-version
+
+# Datasets
+assignments/assignment1/cs231n/datasets/cifar-10-batches-py
+assignments/assignment2/cs231n/datasets/cifar-10-batches-py
+assignments/assignment3/data
+assignments/assignment3/cs231n/datasets/coco_captioning
+assignments/assignment3/cs231n/datasets/MNIST_data
+assignments/assignment3/cs231n/datasets/imagenet_val_25.npz
