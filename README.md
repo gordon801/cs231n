@@ -39,7 +39,7 @@ The notebook [Dropout.ipynb](https://github.com/gordon801/cs231n/blob/main/assig
 **Q4: Convolutional Networks**  
 In the notebook [ConvolutionalNetworks.ipynb](https://github.com/gordon801/cs231n/blob/main/assignments/assignment2/ConvolutionalNetworks.ipynb), several new layers commonly used in convolutional networks are implemented.
 
-**Q5: PyTorch / TensorFlow on CIFAR-10**  
+**Q5: PyTorch**  
 In the notebook [PyTorch.ipynb](https://github.com/gordon801/cs231n/blob/main/assignments/assignment2/PyTorch.ipynb), the framework PyTorch is explored, culminating in the training of a convolutional network on CIFAR-10 for optimal performance.
 
 ### Assignment 3
